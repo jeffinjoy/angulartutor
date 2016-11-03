@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Syntax Highlighting Post
+title: Create your first angular 2 component
 description: "Demo post displaying the various ways of highlighting code in Markdown."
 modified: 2016-06-01T15:27:45-04:00
 tags: [sample post, code, highlighting]
@@ -15,7 +15,7 @@ A SIMPLE COMPONENT
 
 Here’s a simple Component that renders our name, and a button that triggers a method to print our name to the console:
 
-
+```css
 import { Component } from '@angular/core';
 
 @Component({
