@@ -30,5 +30,5 @@ export class MyComponent {
     console.log('My name is', this.name)
   }
 }
-
+```
 When we use the <my-component></my-component> tag in our HTML, this component will be created, our constructor called, and rendered.
