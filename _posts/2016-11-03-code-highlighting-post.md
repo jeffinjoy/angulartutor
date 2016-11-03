@@ -15,7 +15,7 @@ A SIMPLE COMPONENT
 
 Here’s a simple Component that renders our name, and a button that triggers a method to print our name to the console:
 
-```css
+```javascript
 import { Component } from '@angular/core';
 
 @Component({
