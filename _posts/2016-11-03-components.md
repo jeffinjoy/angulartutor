@@ -1,6 +1,5 @@
  <div class="nine columns">
-          <h3>Components</h3>
-          
+                 
           
 
 <p>In Angular 2, Components are the main way we build and specify elements and logic on the page.</p>
