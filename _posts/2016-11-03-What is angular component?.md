@@ -1,6 +1,7 @@
 ---
 layout: post_page
 title: What is angularjs component?
+css:style.css
 ---
 <div class="nine columns">
                  
