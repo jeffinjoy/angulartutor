@@ -2,7 +2,7 @@
 layout: post
 title: Create your first angular2 component
 description: "Demo post displaying the various ways of highlighting code in Markdown."
-modified: 2016-11-05T15:27:45-04:00
+modified: 2016-11-03T15:27:45-04:00
 tags: [sample post, code, highlighting]
 
 ---
