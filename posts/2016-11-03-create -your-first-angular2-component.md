@@ -4,7 +4,7 @@ title: Create your first angular2 component
 description: "Demo post displaying the various ways of highlighting code in Markdown."
 modified: 2016-06-01T15:27:45-04:00
 tags: [angular2]
-
+---
 
 In Angular 2, Components are the main way we build and specify elements and logic on the page.
 
