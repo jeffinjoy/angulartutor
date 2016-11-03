@@ -1,5 +1,8 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'sass'
-gem 'jekyll'
-gem 'nokogiri'
+gem "json"
+gem "jekyll"
+gem "jekyll-sitemap"
+gem "jekyll-feed"
+gem "jekyll-paginate"
+gem "jekyll-gist"
