@@ -10,7 +10,7 @@ url:
 # Owner/author information
 owner:
   name:           Angular Tutor
-  avatar:         angular.jpg
+  avatar:         avatar.jpg
   bio:            "Angular Tutor is a collection of very simple angular2 tutorials.This website is designed for software professionals who want to learn the basics of AngularJS 2 and its programming concepts in simple and easy steps"
   email:          adbcdstaff@gmail.com
   # Social networking links used in footer. Update and remove as you like.
